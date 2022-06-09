@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-books-keeper",
+    "slug": "my-books-keeper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-books-keeper"
+}
